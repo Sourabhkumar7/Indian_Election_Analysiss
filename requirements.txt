@@ -1,0 +1,6 @@
+nbformat==4.3.0
+ipykernel
+numpy
+pandas
+textblob
+ploty
